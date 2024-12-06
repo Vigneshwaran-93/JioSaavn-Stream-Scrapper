@@ -1,0 +1,3 @@
+Based on the browser you're using, you can download the corresponding WebDriver. These drivers act as a bridge between the commands you issue and the actual movements/clicks that happen in the browser. They need to be updated whenever the browser is updated.
+Firefox: https://github.com/mozilla/geckodriver/releases
+Chrome: https://getwebdriver.com/chromedriver
